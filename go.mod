@@ -1,1 +1,1 @@
-module github.com/stianeikeland/go-rpio/v4
+module github.com/lexa/go-rpio/v4
